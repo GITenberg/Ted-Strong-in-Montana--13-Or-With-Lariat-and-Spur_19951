@@ -1,0 +1,26 @@
+_repo: Ted-Strong-in-Montana--13-Or-With-Lariat-and-Spur_19951
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taylor, Edward C.
+    alias: Taylor, Ned (Edward C.)
+    gutenberg_agent_id: '5194'
+    url: http://www.gutenberg.org/2009/agents/5194
+description: ''
+gutenberg_issued: '2006-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19951'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cowboys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Western stories'
+title: "Ted Strong in Montana\r\nOr, With Lariat and Spur"
+url: http://www.gutenberg.org/ebooks/19951
